@@ -2,7 +2,7 @@
   "name": "checklistbot",
   "version": "1.0.0",
   "description": "",
-  "author": "Twan Vermeulen <twan.vermeulen@skydreams.nl> (www.skydreams.com)",
+  "author": "Twan Vermeulen <tw@nvermeulen.nl>",
   "license": "ISC",
   "repository": "https://github.com/TwanVermeulen/checklistbot.git",
   "scripts": {
